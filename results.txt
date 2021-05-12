@@ -1,0 +1,176 @@
+./testdir/file.txt
+	INODE:			319
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			65
+	Access Time:	1620760895
+	Modify Time:	1620758460
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	8
+./testdir/file2.txt
+	INODE:			323
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			0
+	Access Time:	1620763362
+	Modify Time:	1620763361
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./testdir/bar.txt
+	INODE:			328
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			0
+	Access Time:	1620763436
+	Modify Time:	1620763435
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./testdir/
+	INODE:			257
+	Mode:			16877
+	UID:			1000
+	GID:			1000
+	Size:			48
+	Access Time:	1620845398
+	Modify Time:	1620763445
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./folder/file-in-folder.txt
+	INODE:			320
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			24
+	Access Time:	1620760895
+	Modify Time:	1620758470
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	8
+./folder/second-file-in-folder.txt
+	INODE:			324
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			0
+	Access Time:	1620763373
+	Modify Time:	1620763373
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./folder/folder-in-folder/file-in-folder-in-folder.txt
+	INODE:			326
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			0
+	Access Time:	1620763419
+	Modify Time:	1620763418
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./folder/folder-in-folder/foo.txt
+	INODE:			327
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			0
+	Access Time:	1620763427
+	Modify Time:	1620763427
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./folder/folder-in-folder/
+	INODE:			325
+	Mode:			16877
+	UID:			1000
+	GID:			1000
+	Size:			70
+	Access Time:	1620845398
+	Modify Time:	1620763427
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./folder/
+	INODE:			258
+	Mode:			16877
+	UID:			1000
+	GID:			1000
+	Size:			118
+	Access Time:	1620845398
+	Modify Time:	1620763383
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./test.txt
+	INODE:			317
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			19
+	Access Time:	1620760895
+	Modify Time:	1620758442
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	8
+./test2.txt
+	INODE:			318
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			24
+	Access Time:	1620760895
+	Modify Time:	1620758447
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	8
+./results.txt
+	INODE:			322
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			0
+	Access Time:	1620847618
+	Modify Time:	1620847659
+	CTime:			1620847659
+	Block Size:		4096
+	Blcok Count:	0
+./baz/
+	INODE:			329
+	Mode:			16877
+	UID:			1000
+	GID:			1000
+	Size:			22
+	Access Time:	1620845398
+	Modify Time:	1620764527
+	CTime:			1620845397
+	Block Size:		4096
+	Blcok Count:	0
+./main.c
+	INODE:			402
+	Mode:			33188
+	UID:			1000
+	GID:			1000
+	Size:			3481
+	Access Time:	1620847659
+	Modify Time:	1620847658
+	CTime:			1620847658
+	Block Size:		4096
+	Blcok Count:	8
+./main
+	INODE:			403
+	Mode:			33261
+	UID:			1000
+	GID:			1000
+	Size:			13160
+	Access Time:	1620847659
+	Modify Time:	1620847659
+	CTime:			1620847659
+	Block Size:		4096
+	Blcok Count:	32
